@@ -2,7 +2,7 @@
 
 The Spinner (`webex-spinner.min.js`) is proprietary software (c) RandomControl, All Rights Reserved.
 
-It is provided free of charge for embedding and use on public or private websites, applications, or presentations as a runtime viewer.
+It is provided free of charge for embedding and use on public or private websites, applications, or presentations as a runtime jewelry product viewer.
 
 You may:
 
@@ -15,4 +15,4 @@ You may not:
 - Sell, rehost, or redistribute the Spinner as a standalone product.
 - Use the Spinner to create content unless licensed separately.
 
-For commercial use of the content creation tools or viewer integration support, please contact: info@maverickexcelsior.com
+For commercial use of the content creation tools or integration support, please contact: info@maverickexcelsior.com
